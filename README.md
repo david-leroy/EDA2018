@@ -1,6 +1,4 @@
 EDA2018
-L'examen à l'école HETIC 1er semestre, le cours de data science
-Datascience
 Vous êtes datascientist chez Kickstarter, une plate-forme de crowdfunding. Vous souhaitez prédire la réussite ou non d'un projet . Avant de créer votre classifieur, vous entreprenez de faire une analyse préparatoire des données (EDA) pour avoir une meilleure intuition sur ces dernières.
 
 Vous avez accès à toutes les ressources que vous souhaitez (cheatsheet, internet, etc.). N'hésitez pas à en faire bon usage.
